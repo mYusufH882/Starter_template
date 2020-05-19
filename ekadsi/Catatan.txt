@@ -1,0 +1,4 @@
+Catatan :
+Aksesibilitas kurang saat tampilan android:
+1. Halaman depan Landing Page belum responsive
+2. Untuk tombol navigasi halaman user saat di responsivekan tidak jalan/link error
